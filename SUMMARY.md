@@ -9,4 +9,7 @@
   * [Pagination](graphql-api/working-with-the-graphql-api/pagination.md)
   * [Filtering](graphql-api/working-with-the-graphql-api/filtering.md)
   * [Rate limiting](graphql-api/working-with-the-graphql-api/rate-limiting.md)
-* [GraphQL Explorer](graphql-api/graphql-explorer.md)
+
+***
+
+* [GraphQL Explorer](https://docs.github.com/en/graphql/overview/explorer)
